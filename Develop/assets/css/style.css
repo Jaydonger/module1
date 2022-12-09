@@ -41,6 +41,11 @@ body {
     margin-left: 25px;
 }
 
+/* changed list items to hide the markers */
+section ul {
+    list-style: none;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
