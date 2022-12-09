@@ -1,9 +1,10 @@
-/* Updated css code to match the changing of div elements(semantics) */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
+/* Updated css code to match the changing of div elements(semantics) */
 
 body {
     background-color: #d9dcd6;
